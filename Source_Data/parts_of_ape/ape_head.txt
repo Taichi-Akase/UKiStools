@@ -1,0 +1,5 @@
+LOCUS test 7465 bp DNA linear 17-JUL-2022
+SOURCE      .
+  ORGANISM  .
+FEATURES             Location/Qualifiers
+ORIGIN
